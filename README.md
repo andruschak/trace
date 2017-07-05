@@ -1,7 +1,6 @@
 # trace
 Geo map a traceroute - learning example 
 
-xy
 
 Research/Study:
 - go programming language
