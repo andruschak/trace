@@ -3,8 +3,11 @@ Geo map a traceroute - learning example
 
 
 Research/Study:
+- dev with vs code w/git
 - go programming language
 	- imports
 	- json/api
 	- interface to cloud provider
 	- more?
+
+
