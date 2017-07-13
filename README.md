@@ -11,3 +11,7 @@ Research/Study:
 	- more?
 
 
+
+git config --global user.email "user@mail.com"
+git config --global user.name "name"
+
