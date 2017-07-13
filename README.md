@@ -1,9 +1,9 @@
 # trace
 Geo map a traceroute - learning example 
 
-
 Research/Study:
 - dev with vs code w/git
+	- all devices synced and working!
 - go programming language
 	- imports
 	- json/api
